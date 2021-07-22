@@ -10,7 +10,7 @@ The dataset contains information about gun related cases in the United States. T
 the years 2013 to 2018.<br>  However, analysis focused on the years 2014 to 2017 since 2013 and 2018 had missing and incomplete data respectively
 
 ## Goal:
-<span style='color:red;'>State a clear goal of what you want to achieve by the end of this project here</span><br>
+
 The goals of this analysis is to find;
 * The state with the most number of gun related incidents
 * The state with the most number of gun related fatality
