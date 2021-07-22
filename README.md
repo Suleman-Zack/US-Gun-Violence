@@ -14,7 +14,7 @@ the years 2013 to 2018.<br>  However, analysis focused on the years 2014 to 2017
 The goals of this analysis is to find;
 * The state with the most number of gun related incidents
 * The state with the most number of gun related fatality
-* The state with the most number of gun rlated casualty
+* The state with the most number of gun related casualty
 * The gun related cases over the years 2014 to 2017
 * The month in the year with the most number of gun related incidents
 * The day in the week with the most number of gun related cases
